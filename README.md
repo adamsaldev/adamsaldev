@@ -1,5 +1,5 @@
 <h1  align='center'> 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=false&width=435&lines=Hello%2C+I'm+Adam)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=2000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=320&lines=Hello%2C+I'm+Adam" alt="Typing SVG" /></a>
 </h1>
 
 - Based in South Florida
