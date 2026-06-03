@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=false&width=435&lines=Hello%2C+I'm+Adam)](https://git.io/typing-svg)
 
-### `$ who-am-i`
-
 - Based in South Florida
 - iOS developer making useful apps
 - Interested in all things tech and media
